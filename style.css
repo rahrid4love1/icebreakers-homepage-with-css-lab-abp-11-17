@@ -59,5 +59,6 @@ div.jumbotron{
 .jumbotron h1{
   font-size: 60px;
 }
-
-
+div.questions{
+  padding: 0 20px 0 20px;
+}
