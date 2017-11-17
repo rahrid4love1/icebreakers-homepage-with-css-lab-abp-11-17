@@ -46,3 +46,6 @@ h3#header{
   text-decoration: underline;
 }
 
+main{
+  top-margin: 20px;
+}
